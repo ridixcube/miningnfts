@@ -12,7 +12,6 @@ This repository contains a simple JavaScript application for minting and listing
   - [mintNFT](#mintnft)
   - [listNFTs](#listnfts)
   - [getTotalSupply](#gettotalsupply)
-- [License](#license)
 
 ## Introduction
 
